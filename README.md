@@ -1,4 +1,4 @@
-
+![lamp](https://github.com/amindev10/LamparaAliBaba/blob/main/gsc_116924023_1609949_1.jpeg)
 
 # Clase Lampada
 
